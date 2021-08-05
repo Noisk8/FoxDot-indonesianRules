@@ -4,8 +4,44 @@ Como usar FoxDot | Conceptos básicos Español - Bahasa |
                                                                                                         
 
 ~~~
-Cómo empezar con foxdot en bahasa 
+Bagaimana cara memulai foxdot dalam bahasa | Cómo empezar con foxdot en bahasa 
 ~~~
+
+# Bahasa 
+
+## Abstrak
+
+## Filosofi Sumber Terbuka
+Salah satu pertempuran besar yang terjadi pada sound cerator di sisi yang berbeda adalah akses ke alat, yang dalam sebagian besar kasus merupakan kerugian bagi orang-orang dengan sedikit sumber daya; Ini adalah perjuangan yang dapat berjalan beriringan setiap hari berkat komunitas besar dan perpustakaan open source di internet.
+
+Kita tahu bahwa batasan juga memulai standar tertutup yang ditimbulkan oleh perusahaan besar, tetapi dengan pengetahuan timbal balik kita dapat meretas negara-negara ini hingga menemukan kedaulatan teknologi di perut kode terbuka.
+
+
+[Livecoding](https://toplap.org/about/) 
+
++ tentang  [Livecoding](https://github.com/toplap/awesome-livecoding/)
+
+## FoxDot
+
+[Python](https://www.python.org/) adalah bahasa pemrograman mini yang berfokus pada pembuatan suara dengan kode secara real time.
+
+Itu dibuat oleh Ryan Kirbic, didasarkan pada bahasa python dan menggunakan supercollider sebagai mesin suara.
+
+## Supercolider
+[Supercollider](https://supercollider.github.io/) adalah bahasa pemrograman yang dirancang untuk livecoding
+
+Dalam supercollider Foxdot memenuhi fungsi mesin suara, Foxdot menggunakan SC untuk memanggil synthesizer.
+
+## Python
+
+[Python](https://www.python.org/) adalah bahasa pemrograman yang terkenal dengan fleksibilitas dan banyak aplikasinya.
+
+Di Foxdot Python sebagai bahasa dan penerjemah [Sintaksnya lebih pendek dari supercollier] sehingga optimal untuk kurva belajar yang lebih datar.
+
+
+
+
+
 
 ## Abstract 
 
@@ -49,43 +85,4 @@ En Foxdot supercollider cumple la función de motor sonoro, Foxdot utiliza a SC 
 En Foxdot Python como lenguaje e interprete [La sintaxys es más corta que supercollier] por eso es oiptimo para una curva de aprendizaje más plana.
 
 
-
-
-
-### Palabras clave
-
-
-
-
-
-
-# Bahasa 
-
-## Abstrak
-
-## Filosofi Sumber Terbuka
-Salah satu pertempuran besar yang terjadi pada sound cerator di sisi yang berbeda adalah akses ke alat, yang dalam sebagian besar kasus merupakan kerugian bagi orang-orang dengan sedikit sumber daya; Ini adalah perjuangan yang dapat berjalan beriringan setiap hari berkat komunitas besar dan perpustakaan open source di internet.
-
-Kita tahu bahwa batasan juga memulai standar tertutup yang ditimbulkan oleh perusahaan besar, tetapi dengan pengetahuan timbal balik kita dapat meretas negara-negara ini hingga menemukan kedaulatan teknologi di perut kode terbuka.
-
-
-[Livecoding](https://toplap.org/about/) 
-
-+ tentang  [Livecoding](https://github.com/toplap/awesome-livecoding/)
-
-## FoxDot
-
-[Python](https://www.python.org/) adalah bahasa pemrograman mini yang berfokus pada pembuatan suara dengan kode secara real time.
-
-Itu dibuat oleh Ryan Kirbic, didasarkan pada bahasa python dan menggunakan supercollider sebagai mesin suara.
-
-## Supercolider
-[Supercollider](https://supercollider.github.io/) adalah bahasa pemrograman yang dirancang untuk livecoding
-
-Dalam supercollider Foxdot memenuhi fungsi mesin suara, Foxdot menggunakan SC untuk memanggil synthesizer.
-
-## Python
-
-[Python](https://www.python.org/) adalah bahasa pemrograman yang terkenal dengan fleksibilitas dan banyak aplikasinya.
-
-Di Foxdot Python sebagai bahasa dan penerjemah [Sintaksnya lebih pendek dari supercollier] sehingga optimal untuk kurva belajar yang lebih datar.
+WORK IN PROGRESS
